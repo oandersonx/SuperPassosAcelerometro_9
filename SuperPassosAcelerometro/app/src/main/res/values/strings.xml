@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperPassosAcelerometro</string>
+    <string name="txtX">X</string>
+    <string name="txtY">Y</string>
+    <string name="txtZ">Z</string>
+    <string name="btnSend">Send</string>
+    <string name="btnStop">Stop</string>
+    <string name="title_activity_passos">Passos</string>
+    <string name="bttReset">Reset</string>
+
+
+</resources>
